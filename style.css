@@ -1,0 +1,21 @@
+* {
+    background: #19A1AE;
+}
+.card {
+    margin-top: 173px;
+    margin-left: 545px;
+    z-index: 1;
+}
+.first {
+position: absolute;
+width: 978px;
+height: 976px;
+left: 900px;
+top: 300px;
+z-index: 10;
+border-radius: 50%;
+background: linear-gradient(180deg, rgba(9, 137, 180, 0.0001) 0.78%, #53FFEE 99.94%);
+mix-blend-mode: normal;
+opacity: 0.25;
+transform: matrix(0.71, -0.71, -0.71, -0.71, 0, 0)
+}
